@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<title>Æû³µ·þÎñ</title>
+<link rel="stylesheet" type="text/css" href="initialize.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	
+</body>
+</html>

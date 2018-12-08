@@ -1,0 +1,317 @@
+table,table tr,table tr > td,table tr > th{
+	width: 100%;
+	height: 50px;
+}
+table tr > td{
+	background-color: #fff;
+}
+table tr > th{
+	background-color: #888;
+}
+table tr > td,table tr > th{
+	text-indent: -99999px;
+	display: block;	
+}
+#one{
+	margin: 0 auto;
+	width: 1188px;
+	/*position: relative;*/
+}
+#top{
+	margin: 0 auto;
+	width: 1188px;
+	position: relative;
+}
+#fudh{
+	/*margin: 0 auto;*/
+	/*width: 1188px;*/
+	/*position: relative;*/
+	width: 200px;
+	height: 30px;
+	background-color: #555;
+	position: absolute;
+	top: -65px;
+}
+#zidh{
+	/*margin: 0 auto;*/
+	/*width: 1188px;*/
+	/*position: relative;*/
+	width: 200px;
+	height: 150px;
+	background-color: #999;
+	position: absolute;
+	top: -35px;
+	display: none;
+	z-index: 3;
+}
+#fudh p{
+	background: #555 url(../img/3/1.png) no-repeat 95% center;
+	color: #fff;
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+#zidh p a{
+	color: #fff;
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+	display: block;
+	width: 200px;
+	height: 30px;
+	text-decoration: none;
+}
+#fudh p:hover{
+	background: #333 url(../img/3/1.png) no-repeat 95% center;
+	color: #fff;
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+#zidh p a:hover{
+	color: #6495ed;
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+.aaa h2{
+	color: #333;
+	font: bold 35px/35px verdana,arial; 
+}
+.aaa p{
+	margin: 15px 0 0 0;
+	color: #333;
+	font: normal 14px/24px verdana,arial; 
+}
+.bbb{
+	margin: 0 auto;
+	width: 1188px;
+}
+.bbb figure{
+	width: 1185px;
+	height: 533px;
+	margin: 100px 0 0 0;
+	/*background-image: url(../img/3/1.jpg);*/
+}
+.bbb h2{
+	color: #333;
+	font: bold 35px/35px verdana,arial; 
+	margin: 30px 0 0 0;
+}
+.bbb p{
+	margin: 15px 0 0 0;
+	color: #333;
+	font: normal 14px/24px verdana,arial; 
+}
+#fig1{
+	background-image: url(../img/3/1.jpg);
+}
+#fig2{
+	background-image: url(../img/3/2.jpg);
+}
+#fig3{
+	background-image: url(../img/3/3.jpg);
+}
+#fig4{
+	background-image: url(../img/3/4.jpg);
+}
+
+.zong{
+	width: 1188px;
+	min-height: 150px;
+	margin: 5px auto;
+}
+ .zhang{
+        overflow: hidden;
+        border: 1px;
+		border-style: solid none;
+		border-color: #888;
+		width: 1188px;
+		min-height: 50px;
+		margin: 5px auto;
+		/*float: left;*/
+    }
+.zhang p{
+	display: block;
+	height:50px;
+    width:1148px;
+    float: left;
+    color: #333;
+	font: bold 20px/50px verdana,arial;
+
+}
+
+
+
+    .img1{
+        height:40px;
+        width:40px;
+        background: url('../img/3/5.jpg');
+        background-size: cover;
+        display: inline-block; 
+        float: left;
+        margin: 5px 0;
+    }
+
+
+    .img1:hover{
+        cursor: pointer;
+    }
+
+
+    .img2{
+        height:40px;
+        width:40px;
+        background: url('../img/3/6.jpg');
+        background-size: cover;
+        display: inline-block; 
+        float: left;
+        margin: 5px 0;
+    }
+    .img2:hover{
+        cursor: pointer;
+    }
+
+
+    .kai{
+    	width: 544px;        
+        height:0px;
+        margin: 0 50px;
+        transition: all ease 0.5s;
+    }
+
+
+
+#zong1{
+	width: 1188px;
+	min-height: 100px;
+	margin: 5px auto;
+}
+#zong1 .zhang1{
+        overflow: hidden;
+        border: 1px;
+		border-style: solid none;
+		border-color: #888;
+		width: 1188px;
+		min-height: 50px;
+		margin: 5px auto;
+		/*float: left;*/
+    }
+.zhang1 p{
+	display: block;
+	height:50px;
+    width:1148px;
+    float: left;
+    color: #333;
+	font: bold 20px/50px verdana,arial;
+
+}
+.zhang1 .kai1{
+	width: 544px;        
+    height:0px;
+    margin: 0 50px;
+    transition: all ease 0.5s;
+}
+.kai1 > ul{
+	margin: 50px 0px 0px 0px;
+}
+.kai1 li{
+	display: block;
+	width: 544px;
+	height: 28px;
+	color: #333;
+	font: normal 14px/28px verdana,arial;
+	list-style-type: none; 
+}
+.jiadian{
+	background: url('../img/3/7.jpg') no-repeat center left;
+	text-indent: 14px;
+}
+
+
+
+
+    
+#zong2{
+	width: 1188px;
+	min-height: 100px;
+	margin: 5px auto;
+}
+#zong2 .zhang2{
+        overflow: hidden;
+        border: 1px;
+		border-style: solid none;
+		border-color: #888;
+		width: 1188px;
+		min-height: 50px;
+		margin: 5px auto;
+		/*float: left;*/
+    }
+.zhang2 p{
+	display: block;
+	height:50px;
+    width:1148px;
+    float: left;
+    color: #333;
+	font: bold 20px/50px verdana,arial;
+
+}
+.zhang2 .kai2{
+	width: 544px;        
+    height:0px;
+    margin: 0 50px;
+    transition: all ease 0.5s;
+    font: normal 14px/20px verdana,arial;
+    color: #333;
+}
+
+
+    
+#zong3{
+	width: 1188px;
+	min-height: 100px;
+	margin: 5px auto;
+}
+#zong3 .zhang3{
+        overflow: hidden;
+        border: 1px;
+		border-style: solid none;
+		border-color: #888;
+		width: 1188px;
+		min-height: 50px;
+		margin: 5px auto;
+		/*float: left;*/
+    }
+.zhang3 p{
+	display: block;
+	height:50px;
+    width:1148px;
+    float: left;
+    color: #333;
+	font: bold 20px/50px verdana,arial;
+
+}
+.zhang3 .kai3{
+	width: 544px;        
+    height:0px;
+    margin: 0 50px;
+    transition: all ease 0.5s;
+    font: normal 14px/20px verdana,arial;
+    color: #333;
+}
+
+.kai3 > ul{
+	margin: 50px 0px 0px 0px;
+}
+.kai3 li{
+	display: block;
+	width: 544px;
+	min-height: 28px;
+	color: #333;
+	font: normal 14px/28px verdana,arial;
+	list-style-type: none; 
+	margin:  0 0 20px 0;
+}
+#duoyu{
+	width: 100%;
+	height:100px;
+}
+#zidh #blue{
+	color:#0000ff;
+}

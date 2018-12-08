@@ -1,0 +1,55 @@
+#zidh{
+	background-color: #008000;
+}
+#fudh p{
+	background: #00ff7f url(../../img/3/1.png) no-repeat 95% center;
+	color: #6a5acd;
+}
+#zidh p a{
+	color: #6a5acd;
+}
+#fudh p:hover{
+	background: #00ff7f url(../../img/3/1.png) no-repeat 95% center;
+	color: #6a5acd;
+}
+#zidh p a:hover{
+	color: #6495ed;
+}
+#zidh #blue{
+	color:#0000ff;
+}
+#yuyan a{
+	background-color: #808080;
+	color: #6a5acd;
+}
+#yuyan a:hover{
+	background-color: #00ff7f;
+}
+
+#top1 h2{
+	color:#00ff7f;
+}
+#top1 h3{
+	color:#00ff7f;
+}
+#top1 p{
+	color:#00ff7f;
+}
+.bottom2 figure{
+	background-color:#008800;
+}
+.bottom2 > div h2{
+	color:#00ff7f;
+}
+.bottom2 > div p{
+	color:#00ff7f;
+}
+#yuyan input {
+	background:#008000;
+}
+.bottom2 > div ul li{
+	color:#00ff7f;
+}
+.tu{
+	color: #00ff7f;
+}

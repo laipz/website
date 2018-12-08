@@ -1,0 +1,159 @@
+#top{
+	margin: 0 auto;
+	width: 1188px;
+	height: 30px;
+	position: relative;
+	z-index: 9999;
+}
+#fudh{
+	width: 200px;
+	height: 30px;
+	background-color: #555;
+	position: absolute;
+	top: 0px;
+}
+#zidh{
+	width: 200px;
+	height: 150px;
+	/*background-color: #999;*/
+	position: absolute;
+	top: 30px;
+	display: none;
+	z-index: 9998;
+}
+#fudh p{
+	background: #555 url(../img/3/1.png) no-repeat 95% center;
+	/*color: #fff;*/
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+#zidh p a{
+	/*color: #fff;*/
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+	display: block;
+	width: 200px;
+	height: 30px;
+	text-decoration: none;
+}
+#fudh p:hover{
+	/*background: #333 url(../img/3/1.png) no-repeat 95% center;*/
+	/*color: #fff;*/
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+#zidh p a:hover{
+	/*color: #6495ed;*/
+	font: bold 16px/30px verdana,arial; 
+	text-indent: 10px;
+}
+#zidh #blue{
+	/*color:#0000ff;*/
+}
+#yuyan{
+	width: 1188px;
+	height: 50px;
+	margin: 10px auto 50px auto;
+}
+#yuyan a{
+	display: block;
+	width: 200px;
+	height: 50px;
+	/*background-color: #808080;*/
+	margin: 0 60px 0 878px;
+	font: bold 16px/50px verdana,arial;
+	text-align: center; 
+	/*color: #fff;*/
+	text-decoration: none;
+}
+#yuyan a:hover{
+	/*background-color: #555;*/
+}
+#top1{
+	width: 1188px;
+	height: 190px;
+	margin: 0 auto;
+}
+#top1 h2{
+	display: block;
+	width: 1188px;
+	height: 50px;
+	font: bold 35px/50px verdana,arial;
+	/*color:#333;*/
+}
+#top1 h3{
+	display: block;
+	width: 1188px;
+	height: 40px;
+	font: bold 20px/40px verdana,arial;
+	/*color:#333;*/
+}
+#top1 p{
+	display: block;
+	width: 1188px;
+	height: 100px;
+	font: bold 14px/22px verdana,arial;
+	/*color:#666;*/
+}
+.bottom2{
+	width: 1188px;
+	height: 329px;
+	margin: 10px auto;
+}
+.bottom2 figure{
+	display: block;
+	width: 585px;
+	height: 329px;
+	/*background-color:#888;*/
+	float: left;
+}
+#figure1{
+	background: url(../img/3/8.jpg) no-repeat center center;
+}
+#figure2{
+	background: url(../img/3/9.jpg) no-repeat center center;
+}
+.bottom2 > div{
+	display: block;
+	width: 585px;
+	height: 329px;
+	/*background-color:#888;*/
+	float: right;
+}
+.bottom2 > div h2{
+	display: block;
+	width: 585px;
+	height: 80px;
+	font: bold 35px/35px verdana,arial;
+	/*color:#333;*/
+}
+.bottom2 > div p{
+	display: block;
+	width: 585px;
+	height: 54px;
+	font: bold 14px/22px verdana,arial;
+	/*color:#666;*/
+}
+#ul1,#ul2{
+	display: block;
+	width: 585px;
+	height: 120px;
+}
+.bottom2 > div ul li{
+	display: block;
+	width: 585px;
+	height: 20px;
+	list-style-type: none;
+	font: normal 14px/20px verdana,arial;
+	
+}
+.tu{
+	background: url(../img/3/7.jpg) no-repeat left center;
+	text-indent: 14px;
+}
+#yuyan input {
+	width:100px; 
+	height:50px; 
+	background:#999;
+	float: left;
+}

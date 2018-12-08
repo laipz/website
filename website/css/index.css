@@ -1,0 +1,286 @@
+/*总框架样式*/
+.banner{	
+	height: 607px;
+	position: relative;
+}
+#indextwelve{
+	width: 1188px;
+	height: 212px;
+	margin: 40px auto 0px auto;
+}
+.main{	
+	width:1185px;
+	height:1565px;
+	background-color: #fff;
+	margin: 0 auto; 
+	position: relative;
+}
+.container,.banner{
+	width: 1349px;
+}
+/*banner*/
+.banner{
+	width: auto;
+	min-width: 1263px;
+	height: 607px;
+	background: url(../img/banner/1.jpg) no-repeat center;
+}
+.slogin{
+	width: 415px;
+	height: 165px;
+	float:left;
+	position: absolute;
+	top:0px;
+	left: 0px;
+}
+.slogin1,.slogin2,.slogin3{
+	width: 285px;
+	margin: auto;
+	color: #fff;
+	font-weight: bold;
+	font-family:verdana,arial ;
+}
+.slogin1{
+	height: 82.5px;
+	line-height: 82.5px;
+	font-size: 55px;
+	text-align: left;
+}
+.slogin2{
+	height: 41.25px;
+	line-height: 41.25px;
+	font-size:25px;
+	text-align: left;
+}
+.slogin3 a{
+	display: block;
+	height: 41.25px;
+	background-color: #1c69d4;
+	color: #fff;
+	line-height: 41.25px;
+	font-size: 14px;
+	text-align: center;
+}
+.slogin3 a:hover{
+	background-color:#0653b6;
+	text-decoration: none;
+}
+.sixbanner{
+	width: 224px;
+	height: 5px;
+	background-color: #1c69d4;
+	float:left;
+	position: absolute;
+	top: 612px;
+}
+/*indextwelve*/
+.indextwelvetop,.indextwelvebottom{
+	width: 1188px;
+	height: 106px;
+}
+
+#indextwelve .indextwelvetop div,#indextwelve .indextwelvebottom div{
+	width: 194px;
+	height: 102px;
+	float: left;
+	margin: 2px;
+}
+.a1{background-image: url("../img/12/1-1.jpg");}
+.a2{background-image: url("../img/12/1-2.jpg");}
+.a3{background-image: url("../img/12/1-3.jpg");}
+.a4{background-image: url("../img/12/1-4.jpg");}
+.a5{background-image: url("../img/12/1-5.jpg");}
+.a6{background-image: url("../img/12/1-6.jpg");}
+.a7{background-image: url("../img/12/1-7.jpg");}
+.a8{background-image: url("../img/12/1-8.jpg");}
+.a9{background-image: url("../img/12/1-9.jpg");}
+.a10{background-image: url("../img/12/1-10.jpg");}
+.a11{background-image: url("../img/12/1-11.jpg");}
+.a12{background-image: url("../img/12/1-12.jpg");}
+#indextwelve div div a{
+	display: block;
+	width: 194px;
+	height: 102px;
+	font:bold 16px verdana,arial;
+	color: #fff;
+	text-indent:20px;
+	line-height: 163.8px;
+}
+.a1:hover{background-image: url("../img/12/2-1.jpg");}
+.a2:hover{background-image: url("../img/12/2-2.jpg");}
+.a3:hover{background-image: url("../img/12/2-3.jpg");}
+.a4:hover{background-image: url("../img/12/2-4.jpg");}
+.a5:hover{background-image: url("../img/12/2-5.jpg");}
+.a6:hover{background-image: url("../img/12/2-6.jpg");}
+.a7:hover{background-image: url("../img/12/2-7.jpg");}
+.a8:hover{background-image: url("../img/12/2-8.jpg");}
+.a9:hover{background-image: url("../img/12/2-9.jpg");}
+.a10:hover{background-image: url("../img/12/2-10.jpg");}
+.a11:hover{background-image: url("../img/12/2-11.jpg");}
+.a12:hover{background-image: url("../img/12/2-12.jpg");}
+#indextwelve div div a:hover{
+	display: block;
+	width: 194px;
+	height: 102px;
+	font:bold 16px verdana,arial;
+	color: blue;
+	text-indent:20px;
+	line-height: 163.8px;
+	text-decoration: none;
+}
+/*main*/
+.maintop{
+	width: 1185px;
+	height: 160px;
+	margin: 70px 0px 0px 0px;
+}
+.maintop1,.maintop2{
+	width: 1185px;
+	height: 80px;	
+}
+.maintop2{
+	position: relative;
+}
+h1{
+	font: bold 35px/125px verdana,arial;
+	color: #262626;
+}
+.maintop2 div{
+	width: 194px;
+	height: 60px;
+	margin-right:3.5px;
+	float: left;
+	background: url(../img/1/0-3.jpg) no-repeat bottom;	
+	color: #8e8e8e;
+	font: bold 14px/60px verdana,arial;	
+}
+.maintop2 div .blue{
+	display: block;
+	width: 194px;
+	height: 60px;
+	background: url(../img/1/0-1.jpg) no-repeat bottom;
+}
+.maintop2 div a:hover{
+	color: blue;
+	display: block;
+	width: 194px;
+	height: 60px;
+	background: url(../img/1/0-2.jpg) no-repeat bottom;
+	text-decoration: none;
+}
+#maintop3{
+	width: 194px;
+	height: 60px;
+	position: absolute;
+	left: 987.5px;
+	background: url(../img/1/0-4.jpg) no-repeat bottom;
+}
+/*mainbottom*/
+.mainbottom{
+	width: 1185px;
+	height: 1299px;
+	position: absolute;
+	top: 140px;
+}
+.mainbottom div{
+	width: 1185px;
+	height: 426px;
+	margin-bottom: 7px;
+}
+.mainbottom2 div{
+	width: 583px;
+	height: 424px;
+	float: left;
+}
+.mainbottom1 div,.mainbottom3 div{
+	width: 585px;
+	height:426px;
+	float: left;
+}
+.mainbottoml{
+	margin: 0px 7.5px 0px 0px;
+}
+.mainbottomr{
+	margin: 0px 0px 0px 7.5px;
+}
+.mainbottom1 .mainbottoml div,#mainbottom1r1{
+	width: 585px;
+	height: 328px;
+	margin-top: 15px;
+	/*background-color: red;*/
+}
+.mainbottom1 .mainbottoml div{
+	background: url(../img/1/mainbottom1.jpg);	
+}
+#mainbottom1r2{
+	width: 585px;
+	height: 40px;
+	/*background-color: red;*/
+}
+.mainbottom2 div div{
+	width: 553px;
+	height: 311px;
+	margin: 15px 15px 0px 15px;
+}
+.mainbottom3 div div{
+	width: 283px;
+	height: 249px;
+	float: left;
+}
+.mainbottom3l{
+	margin: 87.5px 15px 0px 0px;
+}
+.mainbottom3r{
+	margin: 87.5px 0px 0px 0px;
+}
+.mainbottoml .mainbottom2{
+	background-image: url(../img/1/mainbottom2.jpg)
+}
+.mainbottomr .mainbottom3{
+	background-image: url(../img/1/mainbottom3.jpg)
+}
+.mainbottom3 .mainbottom3l div,.mainbottom .mainbottom3r div{
+	width: 253px;
+	height: 143px;
+	margin: 15px 15px 0px 15px;
+}
+.mainbottom4{
+	background-image: url(../img/1/mainbottom4.jpg)
+}
+.mainbottom5{
+	background-image: url(../img/1/mainbottom5.jpg)
+}
+.mainbottom6{
+	background-image: url(../img/1/mainbottom6.jpg)
+}
+.mainbottom7{
+	background-image: url(../img/1/mainbottom7.jpg)
+}
+#mainbottom2-1,#mainbottom3-1,#mainbottom4-1,#mainbottom5-1,#mainbottom6-1,#mainbottom7-1{
+	height: 55px;
+	margin-top: 0px;
+	color: #000;
+	font:bold 20px/55px verdana,arial;
+}
+#mainbottom2-1,#mainbottom3-1{
+	width: 553px;
+}
+#mainbottom2-2,#mainbottom3-2,#mainbottom4-2,#mainbottom5-2,#mainbottom6-2,#mainbottom7-2,#mainbottom1r3{
+	height:22px;
+	margin-top: 0px;
+	background: url(../img/1/mainbottom8.jpg) no-repeat;
+}
+#mainbottom2-2 a,#mainbottom3-2 a,#mainbottom4-2 a,#mainbottom5-2 a,#mainbottom6-2 a,#mainbottom7-2 a,#mainbottom1r3 a{
+	display: block;
+	width: 70px;
+	padding-left: 10px;
+	color: #888;
+	font:bold 16px/22px verdana,arial;
+}
+#mainbottom2-2 a:hover,#mainbottom3-2 a:hover,#mainbottom4-2 a:hover,#mainbottom5-2 a:hover,#mainbottom6-2 a:hover,#mainbottom7-2 a:hover,#mainbottom1r3 a:hover{
+	color: #666;
+	text-decoration: none;	
+}
+.mainbottom2 .mainbottoml,.mainbottom2 .mainbottomr,.mainbottom3l,.mainbottom3r,.mainbottom4,.mainbottom5,.mainbottom6,.mainbottom7{
+	border: 1px solid #888;
+}
